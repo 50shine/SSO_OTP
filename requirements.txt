@@ -1,0 +1,12 @@
+-e .
+pytest==7.2.0
+responses==0.22.0
+coverage
+pydantic
+
+bump2version
+build
+twine
+
+pyfiglet~=0.8.post0
+vonage~=3.2.1
